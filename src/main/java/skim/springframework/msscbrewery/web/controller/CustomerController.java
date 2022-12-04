@@ -35,7 +35,7 @@ public class CustomerController {
         return new ResponseEntity<>(headers, HttpStatus.CREATED);
     }
 
-    @PostMapping({"/{customerId}"})
+    @PutMapping({"/{customerId}"})
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void handleUpdate(@PathVariable("customerId") UUID customerId, @RequestBody CustomerDto customerDto) {
         customerService.updateCustomer(customerId, customerDto);
