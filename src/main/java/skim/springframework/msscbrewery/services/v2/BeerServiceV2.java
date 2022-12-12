@@ -1,6 +1,5 @@
 package skim.springframework.msscbrewery.services.v2;
 
-import skim.springframework.msscbrewery.web.model.BeerDto;
 import skim.springframework.msscbrewery.web.model.v2.BeerDtoV2;
 
 import java.util.UUID;
@@ -8,9 +7,9 @@ import java.util.UUID;
 public interface BeerServiceV2 {
     BeerDtoV2 getBeerById(UUID beerId);
 
-    BeerDtoV2 saveNewBeer(BeerDto beerDto);
+    BeerDtoV2 saveNewBeer(BeerDtoV2 beerDto);
 
-    void updateBeer(UUID beerId, BeerDto beerDto);
+    void updateBeer(UUID beerId, BeerDtoV2 beerDto);
 
     void deleteById(UUID beerId);
 }
