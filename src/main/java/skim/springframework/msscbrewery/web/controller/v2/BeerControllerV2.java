@@ -5,7 +5,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import skim.springframework.msscbrewery.services.v2.BeerServiceV2;
-import skim.springframework.msscbrewery.web.model.BeerDto;
 import skim.springframework.msscbrewery.web.model.v2.BeerDtoV2;
 
 import javax.validation.ConstraintViolationException;
