@@ -5,6 +5,7 @@ C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\services\Cus
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\services\v2\BeerServiceV2.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\controller\v2\BeerControllerV2.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\controller\CustomerController.java
+C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\domain\Beer.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\services\CustomerServiceImpl.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\MsscBreweryApplication.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\model\CustomerDto.java
@@ -12,4 +13,5 @@ C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\model\Be
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\services\v2\BeerServiceV2Impl.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\controller\MvcExceptionHandler.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\services\BeerService.java
+C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\mappers\BeerMapper.java
 C:\Work\mssc-brewery\src\main\java\skim\springframework\msscbrewery\web\controller\BeerController.java
